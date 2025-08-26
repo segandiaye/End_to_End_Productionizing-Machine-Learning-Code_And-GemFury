@@ -32,3 +32,9 @@ As you can see my package versions are avalable here :
 ```bash
 pip install -i https://pypi.fury.io/$FURY_USER_NAME/ wqp
 ```
+
+# Deployment steps automatisation in CI
+
+```bash
+TODO
+```
