@@ -3,3 +3,4 @@ typing
 pandas
 numpy
 click
+pytest
