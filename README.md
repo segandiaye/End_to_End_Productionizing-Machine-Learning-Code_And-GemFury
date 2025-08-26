@@ -1,6 +1,6 @@
 # Build machine learning code package
 
-[![codecov](https://codecov.io/gh/segandiaye/Python_Best_Practices/branch/main/graph/badge.svg)](https://codecov.io/gh/segandiaye/Productionizing-Machine-Learning-Code)
+[![codecov](https://codecov.io/gh/segandiaye/Productionizing-Machine-Learning-Code/branch/main/graph/badge.svg)](https://codecov.io/gh/segandiaye/Productionizing-Machine-Learning-Code)
 
 Example of building machine learning code package
 
