@@ -1,0 +1,25 @@
+[project]
+name = "productionizing-machine-learning-code"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Sega NDIAYE",email = "ndiaye.sega.pro@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.10,<4.0"
+dependencies = [
+]
+
+[tool.poetry]
+packages = [{include = "wqp", from = "."}]
+
+[tool.poetry.scripts]
+wqp = "wqp.cli:wqp"
+
+[tool.poetry.group.dev.dependencies]
+click = "^8.2.1"
+loguru = "^0.7.3"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
