@@ -1,6 +1,8 @@
-# wine-quality-predictor
+# Build machine learning code package
 
-Build machine learning code package
+[![codecov](https://codecov.io/gh/segandiaye/Python_Best_Practices/branch/main/graph/badge.svg)](https://codecov.io/gh/segandiaye/Productionizing-Machine-Learning-Code)
+
+Example of building machine learning code package
 
 # Deployment on GemFury
 
