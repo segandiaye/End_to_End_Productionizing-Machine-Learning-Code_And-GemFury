@@ -28,6 +28,6 @@ jobs:
       with:
         files: coverage.xml
         token: ${{ secrets.CODECOV_TOKEN }}
-        slug: segandiaye/Productionizing-Machine-Learning-Code
+        slug: segandiaye/End_to_End_Productionizing-Machine-Learning-Code_And-GemFury
         verbose: true
         fail_ci_if_error: true # Ensure CI fails if coverage isn’t uploaded:
